@@ -17,7 +17,6 @@ The project explores how different visual mechanisms respond to natural and arti
 
 
 
-
 ---
 
 ## 🌐 Hyperspectral Image Database
@@ -42,9 +41,10 @@ Hyperescpectral database: https://sites.google.com/view/sergionascimento/home/sc
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 **Pablo A. Barrionuevo**
 [GitHub Profile](https://github.com/pbarrionuevo)
+
 **Francisco Díaz Barrancas**  
 [GitHub Profile](https://github.com/francisco-diaz-barrancas)
 
