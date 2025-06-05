@@ -69,7 +69,7 @@ figure('Position', [100 100 900 600], Name = 'Melanopsin without outliers'),
 subplot(2,2,1)
 plot(nIMel(:,1), nIMel(:,2),'.','MarkerSize',15);
 hold on
-plotMean(nIMel(:,1), nIMel(:,2), 'k');
+%plotMean(nIMel(:,1), nIMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 2],[0 2],'LineStyle',':','LineWidth',2,'Color','k')
 xyvals = 0:2;
 xticks(xyvals)
@@ -83,7 +83,7 @@ ylabel('Melanopsin excitation  (2.4°)')
 subplot(2,2,2)
 plot(hIMel(:,1), hIMel(:,2),'.','MarkerSize',15);
 hold on
-plotMean(hIMel(:,1), hIMel(:,2), 'k');
+%plotMean(hIMel(:,1), hIMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 2],[0 2],'LineStyle',':','LineWidth',2,'Color','k')
 xticks(xyvals)
 yticks(xyvals)
@@ -97,7 +97,7 @@ ylabel('Melanopsin excitation (2.4°)')
 subplot(2,2,3)
 plot(nCMel(:,1), nCMel(:,2),'.','MarkerSize',15);
 hold on
-plotMean(nCMel(:,1), nCMel(:,2), 'k');
+%plotMean(nCMel(:,1), nCMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 1.5],[0 1.5],'LineStyle',':','LineWidth',2,'Color','k')
 xyvals = [0 1 1.414213562];
 xticks(xyvals)
@@ -111,7 +111,7 @@ ylabel('Melanopsin Contrast (2.4°)')
 subplot(2,2,4)
 plot(hCMel(:,1), hCMel(:,2),'.','MarkerSize',15);
 hold on
-plotMean(hCMel(:,1), hCMel(:,2), 'k');
+%plotMean(hCMel(:,1), hCMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 1.5],[0 1.5],'LineStyle',':','LineWidth',2,'Color','k')
 xticks(xyvals)
 yticks(xyvals)
@@ -126,7 +126,7 @@ fmain = gcf;
 figure('Position', [20 50 100 80], Name = 'Melanopsin natural excitation'),
 plot(nIMel(:,1), nIMel(:,2),'.','MarkerSize',15);
 hold on
-[melst.ci_ne, melst.m_ne, melst.h_ne] = plotMean(nIMel(:,1), nIMel(:,2), 'k');
+%[melst.ci_ne, melst.m_ne, melst.h_ne] = plotMean(nIMel(:,1), nIMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 2],[0 2],'LineStyle',':','LineWidth',2,'Color','k')
 xlim([0.745 0.84])
 ylim([0.76 0.85])
@@ -138,7 +138,7 @@ fne = gcf;
 figure('Position', [220 50 100 80], Name = 'Melanopsin human-made excitation'),
 plot(hIMel(:,1), hIMel(:,2),'.','MarkerSize',15);
 hold on
-[melst.ci_he, melst.m_he, melst.h_he] = plotMean(hIMel(:,1), hIMel(:,2), 'k');
+%[melst.ci_he, melst.m_he, melst.h_he] = plotMean(hIMel(:,1), hIMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 2],[0 2],'LineStyle',':','LineWidth',2,'Color','k')
 xlim([0.93 1.09])
 ylim([0.95 1.1])
@@ -150,7 +150,7 @@ fhe = gcf;
 figure('Position', [420 50 100 80], Name = 'Melanopsin natural contrast'),
 plot(nCMel(:,1), nCMel(:,2),'.','MarkerSize',15);
 hold on
-[melst.ci_nc, melst.m_nc, melst.h_nc] = plotMean(nCMel(:,1), nCMel(:,2), 'k');
+%[melst.ci_nc, melst.m_nc, melst.h_nc] = plotMean(nCMel(:,1), nCMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 1.5],[0 1.5],'LineStyle',':','LineWidth',2,'Color','k')
 xlim([0.55 0.63])
 ylim([0.52 0.61])
@@ -162,7 +162,7 @@ fnc = gcf;
 figure('Position', [620 50 100 80], Name = 'Melanopsin human-made contrast'),
 plot(hCMel(:,1), hCMel(:,2),'.','MarkerSize',15);
 hold on
-[melst.ci_hc, melst.m_hc, melst.h_hc] = plotMean(hCMel(:,1), hCMel(:,2), 'k');
+%[melst.ci_hc, melst.m_hc, melst.h_hc] = plotMean(hCMel(:,1), hCMel(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 1.5],[0 1.5],'LineStyle',':','LineWidth',2,'Color','k')
 xlim([0.56 0.66])
 ylim([0.57 0.65])

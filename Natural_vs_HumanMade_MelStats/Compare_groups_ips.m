@@ -99,7 +99,7 @@ yips = yips.^(1/3);
 figure('Position', [420 50 400 300], Name = ['ipRGCs excitation comparison ' vars.data_group]),
 plot(yips(:,1), yips(:,2),'.','MarkerSize',15,'Color',[0.5 0.5 0.5]);
 hold on
-[out.ci_ips, out.m_ips, out.h_ips] = plotMean(yips(:,1), yips(:,2), 'k');
+%[out.ci_ips, out.m_ips, out.h_ips] = plotMean(yips(:,1), yips(:,2), 'k'); % plotMean obtained from https://osf.io/2r4ux/
 line([0 3],[0 3],'LineStyle',':','LineWidth',2,'Color','k')
 xyvals = 0:3;
 xticks(xyvals)
@@ -114,7 +114,7 @@ fips = gcf;
 figure('Position', [720 50 105 80], Name = ['inset' vars.data_group]),
 plot(yips(:,1), yips(:,2),'.','MarkerSize',15,'Color',[0.5 0.5 0.5]);
 hold on
-[out.ci_ips, out.m_ips, out.h_ips] = plotMean2(yips(:,1), yips(:,2), 'k');
+%[out.ci_ips, out.m_ips, out.h_ips] = plotMean2(yips(:,1), yips(:,2), 'k'); % plotMean2 obtained from https://osf.io/2r4ux/
 line([0 3],[0 3],'LineStyle',':','LineWidth',2,'Color','k')
 xlim([1.05 1.25])
 ylim([1.15 1.5])
