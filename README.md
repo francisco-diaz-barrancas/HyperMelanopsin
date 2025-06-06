@@ -21,7 +21,7 @@ All previous scripts rely on publicly available hyperspectral images of natural 
 
 These data can be preprocessed using:
 
-- `Mel_stats_main.m`
+- `Mel_stats.m`
 - `create_artificial_scene_main.m`  
 (located in the `generate_verification_hsi` folder)
 
