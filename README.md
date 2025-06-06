@@ -52,7 +52,8 @@ Hyperescpectral database: https://sites.google.com/view/sergionascimento/home/sc
 
 
 ![image](https://github.com/user-attachments/assets/2d1b3d12-bf22-4f78-8326-e3a90cc4ced2)
-![image](https://github.com/user-attachments/assets/54717e5e-8102-433d-8c51-35d3ef5d5a16)
+![building](https://github.com/user-attachments/assets/9735670f-232b-4919-9ae1-c96360b2af74)
+
 ---
 
 ## 📚 References
