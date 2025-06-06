@@ -12,8 +12,31 @@ The project explores how different visual mechanisms respond to natural and arti
 - `Compare_sizes.m`: Evaluates differences between two receptive field sizes for ipRGCs.
 - `Compare_groups_ips.m`: Compares results from ipRGC type 1 and type 2 encoding.
 - `Plot_verification.m`: Verifies responses to artificial images with isolated melanopsin or luminance variations.
+  
+---
 
-> **Important:** Before running any script, make sure to place the hyperspectral image file inside the `results` folder.
+## 🛠️ Data Generation
+
+All previous scripts rely on publicly available hyperspectral images of natural and man-made environments under daylight illumination, as published by Foster and Nascimento [[1](#references), [2](#references)].
+
+These data can be preprocessed using:
+
+- `Mel_stats_main.m`
+- `create_artificial_scene_main.m`  
+(located in the `generate_verification_hsi` folder)
+
+---
+
+## 📂 Additional Resources
+
+Auxiliary functions included:
+
+- `plotMean.m`
+- `plotMean2.m` 
+Provided by **Dr. Alexander Schuetz**.
+
+---
+
 
 
 
