@@ -43,11 +43,16 @@ Provided by **Dr. Alexander Schuetz**.
 ## 🌐 Hyperspectral Image Database
 
 **Nascimento, Amano & Foster (2016)**  
-[Link to dataset](https://sites.google.com/view/sergionascimento/home/scientific-data/hyperspectral-images-for-spatial-distribution-of-local-illumination-2015)
+[Link to dataset 1](https://sites.google.com/view/sergionascimento/home/scientific-data/hyperspectral-images-for-spatial-distribution-of-local-illumination-2015)
 
 > Nascimento, S. M. C., Amano, K. & Foster, D. H.  
 > *Spatial distributions of local illumination color in natural scenes*.  
 > Vision Research, 120, 39–44 (2016)
+
+[Link to dataset 2](https://sites.google.com/view/sergionascimento/home/scientific-data/time-lapse-hyperspectral-radiance-images-2015)
+> Foster, D. H., Amano, K. & Nascimento, S. M. C.  
+> *Time-lapse ratios of cone excitations in natural scenes*.  
+> Vision Research, 120, 45-60 (2016)
 
 Hyperspectral database 1: https://sites.google.com/view/sergionascimento/home/scientific-data/hyperspectral-images-for-spatial-distribution-of-local-illumination-2015.  Nascimento, Amano & Foster (2016) Spatial distributions of local illumination color in natural scenes, Vision Research.
 
