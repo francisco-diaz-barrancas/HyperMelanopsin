@@ -36,10 +36,6 @@ Auxiliary functions included:
   
 Provided by **Dr. Alexander Schuetz**.
 
----
-
-
-
 
 ---
 
@@ -69,8 +65,7 @@ Hyperescpectral database: https://sites.google.com/view/sergionascimento/home/sc
 **Pablo A. Barrionuevo**
 [GitHub Profile](https://github.com/pbarrionuevo)
 
-**Francisco Díaz Barrancas**  
-[GitHub Profile](https://github.com/francisco-diaz-barrancas)
+**Francisco Díaz Barrancas**  [GitHub Profile](https://github.com/francisco-diaz-barrancas)
 
 ---
 
