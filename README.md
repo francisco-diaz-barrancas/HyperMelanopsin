@@ -48,23 +48,29 @@ Provided by **Dr. Alexander Schuetz**.
 > *Spatial distributions of local illumination color in natural scenes*.  
 > Vision Research, 120, 39–44 (2016)
 
-Hyperescpectral database: https://sites.google.com/view/sergionascimento/home/scientific-data/hyperspectral-images-for-spatial-distribution-of-local-illumination-2015.  Nascimento, Amano & Foster (2016) Spatial distributions of local illumination color in natural scenes, Vision Research.
+Hyperspectral database 1: https://sites.google.com/view/sergionascimento/home/scientific-data/hyperspectral-images-for-spatial-distribution-of-local-illumination-2015.  Nascimento, Amano & Foster (2016) Spatial distributions of local illumination color in natural scenes, Vision Research.
+
+Hyperspectral database 2: https://sites.google.com/view/sergionascimento/home/scientific-data/time-lapse-hyperspectral-radiance-images-2015. Foster, Amano, & Nascimento (2016) Time-lapse ratios of cone excitations in natural scenes, Vision Research.
 
 
 ![image](https://github.com/user-attachments/assets/2d1b3d12-bf22-4f78-8326-e3a90cc4ced2)
 ![building](https://github.com/user-attachments/assets/9735670f-232b-4919-9ae1-c96360b2af74)
+![image](https://github.com/user-attachments/assets/e6bb69d9-d09f-48cd-a1d4-a826ed644aaa)
+
+
+
 
 ---
 
 ## 📚 References
 
-1. Nascimento, S. M. C., Amano, K., & Foster, D. H. (2016). *Spatial distributions of local illumination color in natural scenes*. **Vision Research**, 120, 39–44.  
+1. Nascimento, S. M. C., Amano, K., & Foster, D. H. (2016). *Spatial distributions of local illumination color in natural scenes*. **Vision Research**, 120, 39–44.
+2. Foster, D. H., Amano, K., & Nascimento, S. M. C. (2016). *Time-lapse ratios of cone excitations in natural scenes*. **Vision Research** 120, 45–60.
 
 ---
 
 ## 🧑‍💻 Authors
-**Pablo A. Barrionuevo**
-[GitHub Profile](https://github.com/pbarrionuevo)
+**Pablo A. Barrionuevo**  [GitHub Profile](https://github.com/pbarrionuevo)
 
 **Francisco Díaz Barrancas**  [GitHub Profile](https://github.com/francisco-diaz-barrancas)
 
