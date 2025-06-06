@@ -27,18 +27,6 @@ These data can be preprocessed using:
 
 ---
 
-## 📂 Additional Resources
-
-Auxiliary functions:
-
-- `plotMean.m`
-- `plotMean2.m`
-  
-Provided by **Dr. Alexander Schuetz**. 
-[Link to the streamlined functions](https://osf.io/2r4ux/).
-
-
----
 
 ## 🌐 Hyperspectral Image Database
 
