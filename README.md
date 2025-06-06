@@ -32,7 +32,8 @@ These data can be preprocessed using:
 Auxiliary functions included:
 
 - `plotMean.m`
-- `plotMean2.m` 
+- `plotMean2.m`
+  
 Provided by **Dr. Alexander Schuetz**.
 
 ---
