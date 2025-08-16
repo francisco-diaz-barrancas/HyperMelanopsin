@@ -62,6 +62,18 @@ Hyperspectral database 2: https://sites.google.com/view/sergionascimento/home/sc
 
 ---
 
+## ✍️ How to Cite
+
+These scripts are meant to be used for academic purposes.  
+If you use **HyperMelanopsin** in your research, please cite the following article:
+
+Barrionuevo, P.A., Díaz-Barrancas, F.  
+*Melanopsin-mediated image statistics from natural and human-made environments.*  
+Scientific Reports, 15, 29965 (2025).  
+https://doi.org/10.1038/s41598-025-15981-y
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
